@@ -6,4 +6,4 @@ Executable download link:<br>
 [https://pan.baidu.com/s/1tAOOOqlVrANrXdS_acRCMA](https://pan.baidu.com/s/1tAOOOqlVrANrXdS_acRCMA)<br>
 password: aiew<br>
 
-![](screenshot1.JPG)
+![](screenshot01.JPG)
